@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72042155-c316-4a48-9ac8-b80bb0e31cb9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../common_web_tools/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/.idea/hosting_deployment_monitoring.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/hosting_deployment_monitoring/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/hosting_deployment_monitoring/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/hosting_deployment_monitoring/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/hosting_deployment_monitoring/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/hosting_deployment_monitoring/web/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/hosting_deployment_monitoring/web/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/hosting_deployment_monitoring/web/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/hosting_deployment_monitoring/web/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/hosting_deployment_monitoring/web/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/hosting_deployment_monitoring/web/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/hosting_deployment_monitoring/web/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/hosting_deployment_monitoring/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hosting_deployment_monitoring/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/unit_integration_tests.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="G:\GitHub\zzDjango_Part_2\unit_integration_tests\htmlReport" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2WFqlIKdy7hKnaje8Acmwf84dva" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "G:/GitHub/zzDjango_аdvanced/unit_integration_tests",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Django Server.unit_integration_tests">
+    <configuration name="Test: web.tests" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="unit_integration_tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="web.tests" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: web.tests.views.tests_ProfileCreateView" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="unit_integration_tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="web.tests.views.tests_ProfileCreateView" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: web.tests.views.tests_ProfileCreateView.ProfileCreateViewTests.test_create_profile__when_all_valid__expect_to_create" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="unit_integration_tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="web.tests.views.tests_ProfileCreateView.ProfileCreateViewTests.test_create_profile__when_all_valid__expect_to_create" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: web.tests.views.tests_ProfileListView.ProfilesListViewTests.test_get__when_not_logged_in_user__expect_context_user_to_be_No_user" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="unit_integration_tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="web.tests.views.tests_ProfileListView.ProfilesListViewTests.test_get__when_not_logged_in_user__expect_context_user_to_be_No_user" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: web.tests.views.tests_ProfileListView.ProfilesListViewTests.test_get__when_not_logged_in_user__expect_context_user_to_username" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="unit_integration_tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="web.tests.views.tests_ProfileListView.ProfilesListViewTests.test_get__when_not_logged_in_user__expect_context_user_to_username" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unit_integration_tests" type="Python.DjangoServer" factoryName="Django server">
+      <module name="unit_integration_tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="unit_integration_tests.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django Server.unit_integration_tests" />
+      <item itemvalue="Django tests.Test: web.tests" />
+      <item itemvalue="Django tests.Test: web.tests.views.tests_ProfileCreateView" />
+      <item itemvalue="Django tests.Test: web.tests.views.tests_ProfileCreateView.ProfileCreateViewTests.test_create_profile__when_all_valid__expect_to_create" />
+      <item itemvalue="Django tests.Test: web.tests.views.tests_ProfileListView.ProfilesListViewTests.test_get__when_not_logged_in_user__expect_context_user_to_be_No_user" />
+      <item itemvalue="Django tests.Test: web.tests.views.tests_ProfileListView.ProfilesListViewTests.test_get__when_not_logged_in_user__expect_context_user_to_username" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Django tests.Test: web.tests" />
+        <item itemvalue="Django tests.Test: web.tests.views.tests_ProfileCreateView" />
+        <item itemvalue="Django tests.Test: web.tests.views.tests_ProfileCreateView.ProfileCreateViewTests.test_create_profile__when_all_valid__expect_to_create" />
+        <item itemvalue="Django tests.Test: web.tests.views.tests_ProfileListView.ProfilesListViewTests.test_get__when_not_logged_in_user__expect_context_user_to_username" />
+        <item itemvalue="Django tests.Test: web.tests.views.tests_ProfileListView.ProfilesListViewTests.test_get__when_not_logged_in_user__expect_context_user_to_be_No_user" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72042155-c316-4a48-9ac8-b80bb0e31cb9" name="Changes" comment="" />
+      <created>1696338824258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696338824258</updated>
+      <workItem from="1696338837606" duration="9135000" />
+      <workItem from="1696411725816" duration="6668000" />
+      <workItem from="1696516952202" duration="2168000" />
+      <workItem from="1696544331898" duration="362000" />
+      <workItem from="1696929480203" duration="299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/web/tests/models/tests_Profile.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/unit_integration_tests$Test__web_tests_models_tests_Profile_ProfileTests_test_profile_full_name__when_valid__expect_correct_full_name.coverage" NAME="Test: web.tests.models.tests_Profile.ProfileTests.test_profile_full_name__when_valid__expect_correct_full_name Coverage Results" MODIFIED="1696348058867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/unit_integration_tests$Test__web_tests_views_tests_ProfileListView_ProfilesListViewTests_test_get__when_not_logged_in_user__expect_context_user_to_be_No_user.coverage" NAME="Test: web.tests.views.tests_ProfileListView.ProfilesListViewTests.test_get__when_not_logged_in_user__expect_context_user_to_be_No_user Coverage Results" MODIFIED="1696412566798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/unit_integration_tests$Test__web_tests_views_tests_ProfileListView_ProfilesListViewTests.coverage" NAME="Test: web.tests.views.tests_ProfileListView.ProfilesListViewTests Coverage Results" MODIFIED="1696412546123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/unit_integration_tests$Test__web_tests_models_tests_Profile_ProfileTests_test_profile_create__when_first_name_contains_a_dollar_sign_expect_to_fail.coverage" NAME="Test: web.tests.models.tests_Profile.ProfileTests.test_profile_create__when_first_name_contains_a_dollar_sign_expect_to_fail Coverage Results" MODIFIED="1696348641118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/unit_integration_tests$Test__web_tests.coverage" NAME="Test: web.tests Coverage Results" MODIFIED="1696417175225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/unit_integration_tests$.coverage" NAME=" Coverage Results" MODIFIED="1696348726172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web/tests/models" />
+    <SUITE FILE_PATH="coverage/unit_integration_tests$Test__web_tests_models_tests_Profile_ProfileTests_test_profile_create__when_first_name_contains_only_letters__expect_success.coverage" NAME="Test: web.tests.models.tests_Profile.ProfileTests.test_profile_create__when_first_name_contains_only_letters__expect_success Coverage Results" MODIFIED="1696348135413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/unit_integration_tests$Test__web_tests_models_tests_Profile_ProfileTests_test_profile_create__when_first_name_contains_a_digit__expect_to_fail.coverage" NAME="Test: web.tests.models.tests_Profile.ProfileTests.test_profile_create__when_first_name_contains_a_digit__expect_to_fail Coverage Results" MODIFIED="1696348467895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/unit_integration_tests$Test__web_tests_models_tests_Profile_ProfileTests.coverage" NAME="Test: web.tests.models.tests_Profile.ProfileTests Coverage Results" MODIFIED="1696348765020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/unit_integration_tests$Test__web_tests_views_tests_ProfileCreateView.coverage" NAME="Test: web.tests.views.tests_ProfileCreateView Coverage Results" MODIFIED="1696417051665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/unit_integration_tests$Test__web_tests_views_tests_ProfileListView_ProfilesListViewTests_test_001.coverage" NAME="Test: web.tests.views.tests_ProfileListView.ProfilesListViewTests.test_001 Coverage Results" MODIFIED="1696350213422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/unit_integration_tests$Test__web_tests_views_tests_ProfileListView_ProfilesListViewTests_test_get__when_two_profile__expect_context_to_contain_two_profiles.coverage" NAME="Test: web.tests.views.tests_ProfileListView.ProfilesListViewTests.test_get__when_two_profile__expect_context_to_contain_two_profiles Coverage Results" MODIFIED="1696412532575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/unit_integration_tests$Test__web_tests_models_tests_Profile_ProfileTests_test_profile_create__when_first_name_contains_a_space__expect_to_fail.coverage" NAME="Test: web.tests.models.tests_Profile.ProfileTests.test_profile_create__when_first_name_contains_a_space__expect_to_fail Coverage Results" MODIFIED="1696348650771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/unit_integration_tests$Test__web_tests_views_tests_ProfileListView_ProfilesListViewTests_test_get__when_not_logged_in_user__expect_context_user_to_username.coverage" NAME="Test: web.tests.views.tests_ProfileListView.ProfilesListViewTests.test_get__when_not_logged_in_user__expect_context_user_to_username Coverage Results" MODIFIED="1696412569854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/unit_integration_tests$Test__web_tests_views_tests_ProfileCreateView_ProfileCreateViewTests_test_create_profile__when_all_valid__expect_to_create.coverage" NAME="Test: web.tests.views.tests_ProfileCreateView.ProfileCreateViewTests.test_create_profile__when_all_valid__expect_to_create Coverage Results" MODIFIED="1696416605077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
